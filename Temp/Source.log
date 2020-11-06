@@ -1,0 +1,7 @@
+﻿D:\vs 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+D:\vs 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  project4.cpp
+E:\gitee\open-gl_-course-experiment1\Source\Source\project4.cpp(38,13): warning C4101: “t2”: 未引用的局部变量
+E:\gitee\open-gl_-course-experiment1\Source\Source\project4.cpp(38,9): warning C4101: “t1”: 未引用的局部变量
+E:\gitee\open-gl_-course-experiment1\Source\Source\project4.cpp(38,17): warning C4101: “t3”: 未引用的局部变量
+  Source.vcxproj -> E:\gitee\open-gl_-course-experiment1\Source\Source\..\..\Bin\Source.exe
